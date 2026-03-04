@@ -61,17 +61,17 @@
 Результаты отображаются в виде таблицы с основными характеристиками треков.
 
 ## ✅Запуск проекта
-1. Клонировать репозиторий:
+**1. Клонировать репозиторий:**
 
 git clone https://github.com/USERNAME/motion_based_music_recommender.git
 
 cd motion_based_music_recommender
 
-2. Установить зависимости:
+**2. Установить зависимости:**
 
 pip install -r requirements.txt
 
-3. Запустить приложение:
+**3. Запустить приложение:**
 
 streamlit run full_system.py
 
