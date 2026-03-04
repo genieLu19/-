@@ -12,17 +12,8 @@
 5. формирует список рекомендованных треков  
 
 ## ⚙️Архитектура системы
-MotionSense Dataset
-↓
-Motion Processing
-↓
-BPM Detection
-↓
-MatchNet Neural Network
-↓
-Recommendation System
-↓
-Streamlit Web Interface
+![Uploading 02_A0.png…]()
+
 
 ## ⚒️Используемые технологии
 ▪️ Python  
