@@ -28,11 +28,17 @@
 
 ## ⚒️Используемые технологии
 ▪️ Python.
+
 ▪️ PyTorch.  
+
 ▪️ NumPy.
+
 ▪️ Pandas.  
+
 ▪️ SciPy.
+
 ▪️ Scikit-learn.  
+
 ▪️ Streamlit.
 
 ## 🖥️ Интерфейс пользователя
