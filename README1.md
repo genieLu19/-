@@ -28,19 +28,19 @@
 ▪️ Результаты работы системы отображаются в веб-интерфейсе, реализованном с помощью Streamlit, где пользователь может выбрать параметры и получить список рекомендованных треков.
 
 ## ⚒️Используемые технологии
-▪️ Python.
+**▪️ Python.**
 
-▪️ PyTorch.  
+**▪️ PyTorch.**  
 
-▪️ NumPy.
+**▪️ NumPy.**
 
-▪️ Pandas.  
+**▪️ Pandas.**  
 
-▪️ SciPy.
+**▪️ SciPy.**
 
-▪️ Scikit-learn.  
+**▪️ Scikit-learn.**
 
-▪️ Streamlit.
+**▪️ Streamlit.**
 
 ## 🖥️ Интерфейс пользователя
 Взаимодействие пользователя с системой реализовано через веб-интерфейс, созданный с использованием библиотеки Streamlit.
@@ -64,13 +64,17 @@
 1. Клонировать репозиторий:
 
 git clone https://github.com/USERNAME/motion_based_music_recommender.git
+
 cd motion_based_music_recommender
+
 2. Установить зависимости:
 
 pip install -r requirements.txt
+
 3. Запустить приложение:
 
 streamlit run full_system.py
+
 После запуска откроется веб-интерфейс системы.
 
 ## 📈 Результаты работы модели
